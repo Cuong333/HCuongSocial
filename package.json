@@ -4,5 +4,8 @@
   "description": "Dang Hung Cuong",
   "main": "index.js",
   "author": "Hung Cuong",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
